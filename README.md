@@ -30,9 +30,9 @@ If you do not have profiles for these platforms, you should safely delete the co
 
 ## Hosting Assets
 Email signatures cannot embed local images directly. The assets in the `assets/` folder MUST be uploaded to a public web server. By default, the HTML code expects them to be located at:
-`https://www.officeneed.in/email-signature/assets/`
+`https://pratik-bhatia.github.io/email-signature/assets/`
 
-If you host them elsewhere, perform a find-and-replace in `signature.html` for `https://www.officeneed.in/email-signature/assets/` and replace it with your actual path.
+If you host them elsewhere, perform a find-and-replace in `signature.html` for `https://pratik-bhatia.github.io/email-signature/assets/` and replace it with your actual path.
 
 ## How to Update the Signature Later
 If you need to change an employee's name or contact details:
